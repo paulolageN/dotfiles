@@ -1,0 +1,32 @@
+# Fonte
+font_family      JetBrainsMono Font
+bold_font        auto
+italic_font      auto
+font_size        12.0
+
+# Cores
+foreground       #c0caf5
+background       #000000AA  # <- Transparente (AA = alfa)
+selection_foreground #000000
+selection_background #c0caf5
+
+# Cursor
+cursor           #c0caf5
+cursor_shape     block
+
+# Sem barra de título
+hide_window_decorations yes
+
+# Suavização de bordas
+box_drawing_scale 0.001
+
+# Transparência (só funciona com compositor tipo `picom`)
+background_opacity 0.85
+
+# Sem barra de rolagem
+scrollbar        none
+
+# Remapeia Ctrl+Shift+C/V para copiar/colar
+map ctrl+shift+c copy_to_clipboard
+map ctrl+shift+v paste_from_clipboard
+       
