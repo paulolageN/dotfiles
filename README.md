@@ -79,27 +79,38 @@ sudo apt update && sudo apt install -y \
 
 > **⚠️ Important**: Make sure there are no conflicting configuration files before using Stow. It is recommended to back up existing settings.
 
-## 🛠️ Configurações Disponíveis
+## 🛠️ Configs
 
 ###  Terminal
 
 ### `Kitty`
 
 - sudo apt install kitty
+- and copy kitty.conf
 
 ### Editor
 
 ### `Neovim`
 
- 
+- install and copy init.vim
+- open nvim 
+- :PlugInstall to instal plugins
+
+### Interface
+
+### `Gnome`
+
+- Theme and shell: colloid dark
+- icons: MacOS
+- cusor: MacOS
 
 ## 🎨 Customization
 
 Os dotfiles foram projetados para serem facilmente personalizáveis:
 
 - **Colors and Themes**: Edit the configuration files to change color schemes 
-- **Fonts**: The setting uses Nerd or JetBrains Mono fonts by default 
-- **Icons**:  
+- **Fonts**: The setting uses Nerd or JetBrains Mono fonts 
+- **Icons**:  MacOS icons
 - **Behaviors**: Use the gnome
 
 ## ⌨️ keyboard
@@ -112,6 +123,7 @@ themes for:
 
 - **Terminal**: `~/.config/kitty/`
 - **Neovim**:  `~/.config/nvim/init.vim;`
+- **Gnome**:  `colloid dark`
 
 
 ## 🤝 Contributions
