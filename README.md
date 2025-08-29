@@ -11,15 +11,15 @@
 
 ## 📋 Content
 
-- [Overviewl](#-visão-geral)
+- [Overviewl](#-overview)
 - [Previews](#-previews)
-- [Requeriments](#-requisitos)
-- [Installation](#-instalação)
-- [Configs](#-configurações-disponíveis)
-- [Customization](#-personalização)
-- [Themes](#-temas)
-- [Contributions](#-contribuições)
-- [Licenses](#-licença)
+- [Requeriments](#-Requeriments)
+- [Installation](#-Installation)
+- [Configs](#-Configs)
+- [Customization](#-Customization)
+- [Themes](#-Themes)
+- [Contributions](#-Contributions)
+
 
 ## 📖  Overview
 
@@ -54,7 +54,7 @@ This repository contains my personal dotfiles, which are configuration files for
 - [GNU Stow]
 - Gnome
 
-## 💻 Install
+## 💻 Installation
 
 1. clone this repository:
 ```bash
