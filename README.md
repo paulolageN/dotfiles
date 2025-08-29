@@ -81,6 +81,21 @@ sudo apt update && sudo apt install -y \
 
 ## 🛠️ Configs
 
+### Gnome tweaks
+- user-theme  @gnome-shell-extensions.gcampax.github.com
+- sound-output-device-chooser  @kgshank.net
+- openweather-extension  @jenslody.de
+- bluetooth-quick-connect  @bjarosze.gmail.com
+- dash-to-dock  @micxgx.gmail.com
+- unlockDialogBackground  @sun.wxg@gmail.com
+- CustomizeClockOnLockScreen  @pratap.fastmail.fm
+- search-light  @icedman.github.com
+- clipboard-indicator  @tudmotu.com
+- logomenu  @aryan_k
+- gnome-fuzzy-app-search  @gnome-shell-extensions.Czarlie.gitlab.com
+- blur-my-shell  @aunetx
+- rounded-window-corners  @yilozt
+
 ###  Terminal
 
 ### `Kitty`
